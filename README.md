@@ -4,6 +4,9 @@ RupEye is an android application that helps the visually impaired to recognize I
 It is a real time detection application which gives vocal outputs whenever a currency note is brought infront of the camera.
 # Demo:
 
-
-https://user-images.githubusercontent.com/77055902/166152397-bd842e98-7e07-4a22-ad71-8a884197f9bb.mp4
+<p align="center">
+ <video controls>
+   <source src="https://user-images.githubusercontent.com/77055902/166152397-bd842e98-7e07-4a22-ad71-8a884197f9bb.mp4" type="video/mp4">
+ </video>
+</p>
 
